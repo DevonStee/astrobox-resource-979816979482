@@ -1,0 +1,53 @@
+{
+  "item": {
+    "id": "979816979482",
+    "restype": "watchface",
+    "name": "PUFF CROWD",
+    "description": "PUFF CROWD_气球数字_天空与黑夜\n\n像充气气球的运动一样挤在一起的彩色数字。\n亮屏时数字从细线逐渐鼓起，每到分钟变化时，数字会呈现出逐渐重新充气的动态效果。\n表盘提供了两款背景，一个是在天空中，一个是纯黑色的背景, 提供了省电的选择\n右下角小气球的大小代表了电量，然后左下角的小数字是具体的日期数字.\n\n目前支持小米手环 10 / 11（含 NFC）\n\n注意: 此款表盘其实是免费的表盘，当然, 欢迎付费购买来支持创作. \n对了, 欢迎在小红书(@叫我Brin就好)加入群聊，我几乎会在每个月定期举办发放一些付费表款的兑换码的活动, 以此来感谢粉丝的帮助和支持.",
+    "preview": [
+      "media/03-styles.png",
+      "media/04-wake.png",
+      "media/05-aod.png"
+    ],
+    "icon": "media/01-icon.png",
+    "cover": "media/02-cover.png",
+    "author": [
+      {
+        "name": "brin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "在小红书查看动态表盘",
+      "url": "https://xhslink.cn/o/8ierYJqmfrs",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/Puff Crowd.bin",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Puff Crowd.bin",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/Puff Crowd.bin",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Puff Crowd.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
